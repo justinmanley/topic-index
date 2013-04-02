@@ -6,7 +6,9 @@ normalize it with respect to the COCA (Corpus of Contemporary American English) 
 extract only those words which appear more frequently in the text than in the COCA word frequency list.
 
 Tested on Aristotle's Politics, Mark Twain's Huck Finn, and The Decline and Fall of the Roman Empire:
+
 The Decline and Fall of the Roman Empire
+
 Valerian 
 inroad
 barbarians
@@ -39,6 +41,7 @@ proconsul
 .
 
 Huck Finn
+
 Sally
 reckon
 somewheres
@@ -69,6 +72,7 @@ ferryboat
 .
 
 Politics
+
 lawgiver
 dissensions
 aristocracy
